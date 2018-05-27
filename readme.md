@@ -46,6 +46,10 @@ edX Introduction to Real-Tiem systems:
 * [video](https://www.youtube.com/watch?v=zlfXL3blDAo)
 
 
+Small video intrudocuing interrupts
+
+* [video](https://www.youtube.com/watch?v=jMnuQMYR3Ro)
+
 ## Development environments
 
 Supported IDE's for STM32
