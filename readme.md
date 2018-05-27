@@ -9,7 +9,7 @@ pre-trained neural network on an STM32.
 
 "Machine learning capabiltiies expected soon on microcontroller hardware"
 
-* _ ... I'm skeptical that it's only pre-trained networks as far as deep neural nets go... but I would bet you can run support vector machines or general linear models on micro controllers now. _
+* _I'm skeptical that it's only pre-trained networks as far as deep neural nets go... but I would bet you can run support vector machines or general linear models on micro controllers now._
 * [article](https://iot.eetimes.com/machine-learning-capabilities-expected-soon-in-microprocessor-and-microcontroller-hardware/)
 
 
