@@ -20,6 +20,9 @@ pre-trained neural network on an STM32.
 
 ## Tutorials / kits
 
+edX Introduction to Real-Tiem systems:
+[Course](https://courses.edx.org/courses/course-v1:IEEEx+RTSIx+2015_T3/course/)
+
 "STM32L4 Discovery kit IoT node"
 
 * Internet of things kit
