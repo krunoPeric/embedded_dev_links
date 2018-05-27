@@ -79,3 +79,6 @@ Qt Creator debuging with STM32
 
 * [stackexcahnge](https://electronics.stackexchange.com/questions/212018/debugging-an-arm-stm32-microcontroller-using-qt-creator)
 * [video](https://www.youtube.com/watch?v=YgHe3D1t3Fs)
+
+
+"why c is the best programming language" [quora](https://www.quora.com/Why-is-C-the-best-programming-language)
