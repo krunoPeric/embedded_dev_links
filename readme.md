@@ -1,4 +1,7 @@
-# Some cool links I found on embedded systems
+# Some links I found on embedded systems
+
+## how much EE do you need:
+* [stackoverflow](https://softwareengineering.stackexchange.com/questions/22416/is-embedded-programming-closer-to-electrical-engineering-or-software-development)
 
 ## Higher complexity tasks:
 
