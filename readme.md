@@ -17,6 +17,8 @@ pre-trained neural network on an STM32.
 * probably better than my oscilloscope...
 * [video](https://www.youtube.com/watch?v=FmtO5DoVTfM)
 
+uGui graphics / display / user interface:
+* [video](https://www.youtube.com/watch?v=7I-V-38ufQk)
 
 ## Books
 
