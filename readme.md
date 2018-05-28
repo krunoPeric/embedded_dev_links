@@ -18,6 +18,10 @@ pre-trained neural network on an STM32.
 * [video](https://www.youtube.com/watch?v=FmtO5DoVTfM)
 
 
+## Books
+
+The CERT C Coding Standard:  98 Rules for Developing Safe, Reliable, and Secure Systems: [amazon](https://www.amazon.com/gp/product/0321984048/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+
 ## Tutorials / kits
 
 edX Introduction to Real-Tiem systems:
