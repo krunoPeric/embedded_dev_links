@@ -29,6 +29,8 @@ The CERT C Coding Standard:  98 Rules for Developing Safe, Reliable, and Secure 
 
 ## Tutorials / kits
 
+udemy Foundation of ARM Cortex-M Processors using STM32 Nucleo [course](https://www.udemy.com/cortex-m/?couponCode=QUORABLUEPILL2018)
+
 edX Introduction to Real-Tiem systems:
 [Course](https://courses.edx.org/courses/course-v1:IEEEx+RTSIx+2015_T3/course/)
 
